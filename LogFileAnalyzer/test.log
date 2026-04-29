@@ -1,0 +1,10 @@
+error something went wrong
+warning low memory
+info server started
+error connection failed
+info user logged in
+warning disk space low
+error null pointer exception
+info request received
+warning high cpu usage
+error timeout reached
